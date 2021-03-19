@@ -1,2 +1,0 @@
-# Portfolio
-Kodo's Portfolio
